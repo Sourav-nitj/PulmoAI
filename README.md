@@ -138,7 +138,7 @@ You will also need free API keys from:
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/NaitikAgrawal043/PulmoAI.git
+git clone https://github.com/Sourav-nitj/PulmoAI.git
 cd PulmoAI
 ```
 
